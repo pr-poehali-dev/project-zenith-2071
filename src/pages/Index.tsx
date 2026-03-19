@@ -61,13 +61,13 @@ const Index = () => {
                 <span className="text-foreground font-mono text-sm">Макс</span>
               </div>
               <div className="flex items-center gap-4">
-                <span className="text-accent font-mono text-sm">Вид</span>
-                <span className="text-foreground font-mono text-sm">Инопланетянин с планеты Флэпджек</span>
+                <span className="text-accent font-mono text-sm">Роль</span>
+                <span className="text-foreground font-mono text-sm">Fullstack-разработчик · UX/UI Дизайнер</span>
               </div>
               <div className="flex items-start gap-4">
-                <span className="text-accent font-mono text-sm">Характер</span>
+                <span className="text-accent font-mono text-sm">О себе</span>
                 <span className="text-foreground font-mono text-sm">
-                  Любопытный, гибкий, немного расслабленный - но острый, когда дело касается баз данных и организации информации.
+                  Создаю продукты, которые работают красиво и быстро. Люблю чистый код, продуманный интерфейс и проекты, которые решают настоящие задачи.
                 </span>
               </div>
             </div>
